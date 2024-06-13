@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sajan Limbu</h1>
-<h3 align="center">A passionate developer from Nepal</h3>
+<h1 align="center">Hi pals👋, I'm Sajan Limbu</h1>
+<h3 align="center"> Developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajanismyname&label=Profile%20views&color=0e75b6&style=flat" alt="sajanismyname" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajanismyname" alt="sajanismyname" /></a> </p>
 
-- ⚡ Fun fact **I am funny**
+<br>Future full(Mern)-stack developer</br>
+Currently focusing on improving my backend skills from chaiaurcode 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
