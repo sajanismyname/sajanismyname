@@ -6,8 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajanismyname" alt="sajanismyname" /></a> </p>
 
 <br>Future full(Mern)-stack developer</br>
-Currently focusing on improving my backend skills from chaiaurcode 
-
+Currently focusing on improving my fullstack skills
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/sajan limbu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sajan limbu" height="30" width="40" /></a>
