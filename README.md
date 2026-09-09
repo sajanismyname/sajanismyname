@@ -10,7 +10,7 @@
 
 ## 📖 About Me
 
-I'm an **Aspiring Full Stack Developer** with a strong focus on **Backend Development**. I enjoy building robust APIs, working with databases, and creating scalable server-side applications. Always learning, always building.
+I'm an **Full Stack Developer** with a strong focus on **Backend Development**. I enjoy building robust APIs, working with databases, and creating scalable server-side applications. Always learning, always building.
 
 * 🎯 Focus: **Backend Development, APIs, and Full Stack Engineering**
 
