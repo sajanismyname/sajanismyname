@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=fb8c00,f4511e,e53935&height=200&section=header&text=Sajan%20Limbu&fontSize=75&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1117,50:1C2A3A,100:34495E&height=200&section=header&text=Sajan%20Limbu&fontSize=75&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F4511E&center=true&vCenter=true&width=900&lines=Aspiring+Full+Stack+Dev+%F0%9F%92%BB;Backend+Developer+%E2%9A%99%EF%B8%8F;JavaScript+%2F+TypeScript+%F0%9F%9A%80;Always+Learning+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=900&lines=Aspiring+Full+Stack+Dev+%F0%9F%92%BB;Backend+Developer+%E2%9A%99%EF%B8%8F;JavaScript+%2F+TypeScript+%F0%9F%9A%80;Always+Learning+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 ---
@@ -44,23 +44,23 @@ I'm an **Aspiring Full Stack Developer** with a strong focus on **Backend Develo
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=sajanismyname&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180em" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=sajanismyname&theme=blue-green&hide_border=false&count_private=true" height="180em" alt="GitHub Stats" />
 
-  <img src="https://streak-stats.demolab.com/?user=sajanismyname&theme=dark&hide_border=false" height="180em" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sajanismyname&theme=blue-green&hide_border=false" height="180em" alt="GitHub Streak" />
 
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sajanismyname&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sajanismyname&theme=blue-green&hide_border=false&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sajanismyname&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sajanismyname&theme=algolia&no-frame=false&no-bg=true&margin-w=4" />
 </div>
 
 ### ✍️ Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=blue" />
 </div>
 
 ---
@@ -82,10 +82,10 @@ I'm an **Aspiring Full Stack Developer** with a strong focus on **Backend Develo
 
 <div align="center">
   <a href="https://visitcount.itsvg.in" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=sajanismyname&icon=0&color=0" />
+    <img src="https://komarev.com/ghpvc/?username=sajanismyname&icon=0&color=blueviolet" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=fb8c00,f4511e,e53935&height=100&section=footer&text=&fontSize=0&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080C12,50:121B26,100:263B50&height=100&section=footer&text=&fontSize=0&animation=twinkling" width="100%" />
 </div>
